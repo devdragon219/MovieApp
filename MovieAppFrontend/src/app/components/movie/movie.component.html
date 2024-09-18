@@ -1,0 +1,24 @@
+<a
+  [href]="'http://localhost:5076' + movie.movieFilePath"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="w-full min-w-[230px] h-[300px] overflow-hidden block rounded relative hover:scale-105 transition-all">
+
+  <img
+  class="w-full h-[200px] object-cover object-center rounded-t"
+  [src]="'http://localhost:5076' + movie.coverImage"
+  [alt]="movie.title"
+/>
+
+  <div class="absolute bottom-0 h-[100px] bg-black/60 p-4 w-full text-white">
+    <h2 class="text-ellipsis text-lg font-semibold">
+      {{ movie.title }}
+    </h2>
+    <p class="text-sm">{{ movie.genre }}</p>
+    <p class="text-xs mt-1">{{ movie.description }}</p>
+  </div>
+
+  <div class="absolute inset-0 flex items-center justify-center text-white opacity-0 hover:opacity-100 transition-opacity">
+    <span class="text-xl font-bold">▶</span>
+  </div>
+</a>

@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Services\\MovieService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\MovieService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Models\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\DTOs\\MovieDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\MovieDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Repositories\\MovieRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\MovieRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Data\\MovieSeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\MovieSeeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Controllers\\MoviesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\MoviesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Migrations\\20240816154027_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240816154027_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Migrations\\20240816154027_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240816154027_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Migrations\\MovieContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\MovieContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Data\\MovieContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\MovieContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Mappings\\AutoMapperProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mappings\\AutoMapperProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Config\\aws-s3-permissions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Config\\aws-s3-permissions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Migrations\\MovieContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MovieContextModelSnapshot.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Migrations\\MovieContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MovieContextModelSnapshot.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:46:31.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240816154027_InitialCreate.Designer.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Migrations\\20240816154027_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240816154027_InitialCreate.Designer.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Migrations\\20240816154027_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240816154027_InitialCreate.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:42:18.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240816154027_InitialCreate.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Migrations\\20240816154027_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240816154027_InitialCreate.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Migrations\\20240816154027_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240816154027_InitialCreate.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:42:15.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-16T15:28:55.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:28:37.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:28:07.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MovieRepository.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:26:50.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieSeeder.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Data\\MovieSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\MovieSeeder.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Data\\MovieSeeder.cs",
+              "RelativeToolTip": "Data\\MovieSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:26:23.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Data\\MovieContext.cs",
+              "RelativeDocumentMoniker": "Data\\MovieContext.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Data\\MovieContext.cs",
+              "RelativeToolTip": "Data\\MovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:24:53.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\DTOs\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\MovieDTO.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\DTOs\\MovieDTO.cs",
+              "RelativeToolTip": "DTOs\\MovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:24:28.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:23:56.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "aws-s3-permissions.json",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Config\\aws-s3-permissions.json",
+              "RelativeDocumentMoniker": "Config\\aws-s3-permissions.json",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Config\\aws-s3-permissions.json",
+              "RelativeToolTip": "Config\\aws-s3-permissions.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T15:21:51.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:20:00.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Services\\MovieService.cs",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\Services\\MovieService.cs",
+              "RelativeToolTip": "Services\\MovieService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:14:03.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\HomeTask\\MovieAppBackend\\MovieAppBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T15:13:17.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

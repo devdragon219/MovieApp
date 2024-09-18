@@ -1,0 +1,32 @@
+<div class="min-h-screen flex flex-col pt-[100px] px-20">
+  <form [formGroup]="uploadForm" class="p-4">
+    <label for="title" class="block text-sm font-medium text-gray-700">Title</label>
+    <input id="title" formControlName="title" type="text" class="mt-1 block w-full p-2 border border-gray-300 rounded-md" />
+
+    <label for="description" class="block text-sm font-medium text-gray-700 mt-4">Description</label>
+    <textarea id="description" formControlName="description" class="mt-1 block w-full p-2 border border-gray-300 rounded-md"></textarea>
+
+    <label for="genre" class="block text-sm font-medium text-gray-700 mt-4">Genre</label>
+    <input id="genre" formControlName="genre" type="text" class="mt-1 block w-full p-2 border border-gray-300 rounded-md" />
+
+    <label for="videoFile" class="block text-sm font-medium text-gray-700 mt-4">Upload Video</label>
+    <input id="videoFile" type="file" #fileInput (change)="onVideoSelected($event)" accept="video/*" class="mt-1 block w-full p-2 border border-gray-300 rounded-md" />
+
+    <button type="button" (click)="uploadMovieWithMetadata()" class="mt-4 bg-blue-500 text-white px-4 py-2 rounded">Upload</button>
+  </form>
+
+  <!-- Progress bar -->
+  <div *ngIf="uploadProgress > 0" class="w-full bg-gray-200 rounded mt-4">
+    <div class="bg-blue-500 text-xs leading-none py-1 text-center text-white rounded"
+         [style.width.%]="uploadProgress">
+      {{ uploadProgress }}%
+    </div>
+  </div>
+
+  <!-- Success message -->
+  <div *ngIf="uploadSuccess" class="mt-4 text-green-500">
+    Movie is successfully uploaded!!
+  </div>
+
+  <video #videoElement width="320" height="240" controls hidden></video>
+</div>
